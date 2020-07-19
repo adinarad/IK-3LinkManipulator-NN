@@ -1,5 +1,6 @@
 # Inverse Kinematics Of 3 Link Planar Robot Manipulator Using Data Driven Approach
-***Under the guidance of [Prof. Vijay Bhaskar Semwal](https://sites.google.com/site/wwwvbsemwalcom/)***
+***This project was completed under the guidance of [Prof. Vijay Bhaskar Semwal](https://sites.google.com/site/wwwvbsemwalcom/).***
+
 This project focuses on solving the inverse kinematics problem, for a 3L Planar Robot Manipulator, which is used to transform a position of the end-effector in the Cartesian space to a set of joint angles.
 
 ## What it does?
